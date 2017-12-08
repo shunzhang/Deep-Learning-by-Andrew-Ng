@@ -84,8 +84,3 @@ I screenshotted some important slide page and store them into GitHub issues. It 
 - [Screenshots for Course 4: Convolutional Neural Networks](https://github.com/Kulbear/deep-learning-coursera/issues/14)
 
 - Screenshots for Course 5: Sequence Models
-
-
-## Milestones
-
-  - **2017-08-17**: Finished the first-released 3 courses, YAY! 😈
