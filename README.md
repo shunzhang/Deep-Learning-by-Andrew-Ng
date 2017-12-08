@@ -1,9 +1,5 @@
 # Deep Learning Specialization on Coursera
 
-**Master Deep Learning, and Break into AI**
-
-Instructor: [Andrew Ng](http://www.andrewng.org/)
-
 ## Introduction
 
 This repo contains all my work for this specialization. All the code base, quiz questions, screenshot, and images, are taken from, unless specified, [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning).
@@ -68,8 +64,6 @@ There are concerns that some people may use the content here to quickly ace the 
   - [Week 1 Quiz - Bird recognition in the city of Peacetopia (case study)](https://github.com/Kulbear/deep-learning-coursera/blob/master/Structuring%20Machine%20Learning%20Projects/Week%201%20Quiz%20-%20Bird%20recognition%20in%20the%20city%20of%20Peacetopia%20(case%20study).md)
   - [Week 2 Quiz - Autonomous driving (case study)](https://github.com/Kulbear/deep-learning-coursera/blob/master/Structuring%20Machine%20Learning%20Projects/Week%202%20Quiz%20-%20Autonomous%20driving%20(case%20study).md)
 
-- ~~Course 4: Convolutional Neural Networks~~
-- ~~Course 5: Sequence Models~~
 
 ## Important Slide Notes
 
